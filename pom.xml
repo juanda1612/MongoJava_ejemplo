@@ -19,8 +19,8 @@
 		<!-- Añadimos el driver de MongoDB para java -->
 		<dependency>
 			<groupId>org.mongodb</groupId>
-			<artifactId>mongo-java-driver</artifactId>
-			<version>2.13.0</version>
+			<artifactId>mongodb-driver-sync</artifactId>
+			<version>5.2.1</version>
 		</dependency>
 
 	</dependencies>
