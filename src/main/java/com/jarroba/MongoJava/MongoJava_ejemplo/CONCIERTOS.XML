@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Conciertos>
+    <Concierto>
+        <Nombre>GRUPO</Nombre>
+        <Lugar>LUGAR</Lugar>
+        <Fecha>FECHA</Fecha>
+        <Hora>HORA</Hora>
+    </Concierto>
+    <Concierto>
+        <Nombre>SONATA ARCTICA</Nombre>
+        <Lugar>Conciertos WiZink Center - Madrid</Lugar>
+        <Fecha>Viernes 04 octubre 2024</Fecha>
+        <Hora>20:00 H.</Hora>
+    </Concierto>
+    <Concierto>
+        <Nombre>LOS CHICHOS- HASTA AQUI  HEMOS LLEGADO (2)</Nombre>
+        <Lugar>Conciertos WiZink Center - Madrid</Lugar>
+        <Fecha>Viernes 04 octubre 2024</Fecha>
+        <Hora>20:45 H.</Hora>
+    </Concierto>
+    <Concierto>
+        <Nombre>LA PEGATINA - HASTA LUEGO MARI CARMEN</Nombre>
+        <Lugar>Conciertos WiZink Center - Madrid</Lugar>
+        <Fecha>Sabado 05 octubre 2024</Fecha>
+        <Hora>20:30 H.</Hora>
+    </Concierto>
+    <Concierto>
+        <Nombre>CEPEDA - CONTRADICCION TOUR</Nombre>
+        <Lugar>Conciertos WiZink Center - Madrid</Lugar>
+        <Fecha>Sabado 05 octubre 2024</Fecha>
+        <Hora>21:00 H.</Hora>
+    </Concierto>
+    <Concierto>
+        <Nombre>RAFA ESPINO - 15 ANIVERSARIO</Nombre>
+        <Lugar>Conciertos WiZink Center - Madrid</Lugar>
+        <Fecha>Domingo 06 octubre 2024</Fecha>
+        <Hora>19:00 H.</Hora>
+    </Concierto>
+    <Concierto>
+        <Nombre>MELANIE MARTINEZ - THE TRILOGY TOUR</Nombre>
+        <Lugar>Conciertos WiZink Center - Madrid</Lugar>
+        <Fecha>Lunes 07 octubre 2024</Fecha>
+        <Hora>21:00 H.</Hora>
+    </Concierto>
+    <Concierto>
+        <Nombre>MEUTE- EMPOR 2024</Nombre>
+        <Lugar>Conciertos WiZink Center - Madrid</Lugar>
+        <Fecha>Miercoles 09 octubre 2024</Fecha>
+        <Hora>21:00 H.</Hora>
+    </Concierto>
+    <Concierto>
+        <Nombre>CRUSH- OCTUBRE 2024</Nombre>
+        <Lugar>Conciertos WiZink Center - Madrid</Lugar>
+        <Fecha>Jueves 10 octubre 2024</Fecha>
+        <Hora>19:30 H.</Hora>
+    </Concierto>
+    <Concierto>
+        <Nombre>DABUTI- OCTUBRE 2024</Nombre>
+        <Lugar>Conciertos WiZink Center - Madrid</Lugar>
+        <Fecha>Viernes 11 octubre 2024</Fecha>
+        <Hora>18:30 H.</Hora>
+    </Concierto>
+    <Concierto>
+        <Nombre>LA CASA AZUL</Nombre>
+        <Lugar>Conciertos WiZink Center - Madrid</Lugar>
+        <Fecha>Viernes 11 octubre 2024</Fecha>
+        <Hora>21:00 H.</Hora>
+    </Concierto>
+</Conciertos>
